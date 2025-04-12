@@ -1,7 +1,7 @@
 # Data Science For Supply Chain Forecasting
 
 ## About the book
-Data Science For Supply Chain Forecasting by Nicolas Vandeput is a book that focuses on the application of data science techniques to improve demand forecasting and demand planning. It covers various forecasting methods, from traditional statistical approaches to more advanced machine learning ones.
+Data Science For Supply Chain Forecasting by Nicolas Vandeput is a book that focuses on the application of data science techniques to improve demand forecasting and demand planning. It covers various forecasting methods, from traditional statistical approaches to advanced machine learning ones.
 
 ## About the repository
 This repository is where I upload my Python practices with techniques mentioned the book, including:
